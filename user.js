@@ -5,6 +5,8 @@
 // @description  捕获 RTMPS 推流地址和参数
 // @author       GPT
 // @match        *://*/*
+// @updateURL   https://cdn.jsdelivr.net/gh/hc36663888/cgh1.js/user.js
+// @downloadURL https://cdn.jsdelivr.net/gh/hc36663888/cgh1.js/user.js
 // @grant        none
 // ==/UserScript==
 
